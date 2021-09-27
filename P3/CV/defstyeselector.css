@@ -1,0 +1,37 @@
+/*Dokumen CSS*/
+
+/* Element Type Selector*/
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+/*Class Selector*/
+
+.fa {
+    padding: 5px;
+    font-size: 14px;
+    width: 14px;
+    text-align: left;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa-instagram {
+    color:black;
+}
+.fa-linkedin {
+    color:black;
+}
+
+
+/* ID Selector */
+
+#motivasi{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
